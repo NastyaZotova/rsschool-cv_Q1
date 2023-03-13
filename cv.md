@@ -5,7 +5,7 @@
    * tridcatka30@gmail.com
    * @begtrustsoy  (telegram)
    * [NastyaZotova](https://github.com/NastyaZotova "GitHab")  (GitHab)
-   * Tel +375292777515
+   * Tel: +375292777515
    * NastyaZotova(@30ml)  (Discord)
    * Location: Minsk, Belarus
 
@@ -23,8 +23,9 @@
    function multiply(a, b) {
    return a * b} 
    ```
+
 6. **Education**
-   * Minsk State Architectural and Construction College (Industrial and civil engi-neering)
+   * Minsk State Architectural and Construction College (Industrial and civil engineering)
 	* Brest State Technical University (Civil Engineering)
 
 7. **Languages**
