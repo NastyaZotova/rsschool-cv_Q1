@@ -37,7 +37,7 @@ header {
 ul.navbar-menu li {
 	display: inline-block;
 	padding: 0px 50px 0px;
-	color: rgb(0, 0, 0);
+	color: rgb(42, 39, 59);
 }
 
 .container {
@@ -142,6 +142,15 @@ ul.navbar-menu li {
 	list-style: circle;
 	margin: 10px 0;
 	cursor: po5inter;
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(0, 255, 149);
+}
+
+a {
+	color: black;
 }
 
 .container .right_side {
