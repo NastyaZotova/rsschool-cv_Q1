@@ -32,3 +32,5 @@
    * Belarussian
    * English B2
 
+![Avatar]("C:\Users\PC\Desktop\RS\rsschool-cv\avatar.jpg")
+
